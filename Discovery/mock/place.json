@@ -1,0 +1,20 @@
+{
+  "PlaceData": [
+    {
+      "id": "kita",
+      "ku":"北区/kita"
+    },
+    {
+      "id": "itabashi",
+      "ku":"板橋区/itabashi"
+    },
+    {
+      "id": "meguro",
+      "ku":"目黒区/meguro"
+    },
+    {
+      "id": "shinjuku",
+      "ku":"新宿区/shinjuku"
+    }
+  ]
+}

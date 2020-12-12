@@ -1,0 +1,81 @@
+{
+  "CompanyData": [
+    {
+      "id": "0001",
+      "name": "まるまる商店/shop1",
+      "adress": "Tokyo kita oji",
+      "category": "陶器",
+      "Exercize": {
+       "period":"4月‐10月",
+       "plan":"ねりねり"
+      },
+      "Picture":{
+        "main_pic":"",
+        "company_pic":"",
+        "map_pic":"",
+        "exercize_pic":""
+      },
+      "Review":{
+        "comment":""
+      }
+    },
+    {
+      "id": "0002",
+      "name": "ばつばつ商店shop2",
+      "adress": "Tokyo kita akabane",
+      "category": "たこ",
+      "Exercize": {
+       "period":"4月‐10月",
+       "plan":"たこあげ"
+      },
+      "Picture":{
+        "main_pic":"",
+        "company_pic":"",
+        "map_pic":"",
+        "exercize_pic":""
+      },
+      "Review":{
+        "comment":""
+      }
+    },
+    {
+      "id": "0003",
+      "name": "さんかく商店shop3",
+      "adress": "Tokyo kita oji",
+      "category": "酒",
+      "Exercize": {
+       "period":"4月‐10月",
+       "plan":"ぐびぐび"
+      },
+      "Picture":{
+        "main_pic":"",
+        "company_pic":"",
+        "map_pic":"",
+        "exercize_pic":""
+      },
+      "Review":{
+        "comment":""
+      }
+    },
+    {
+      "id": "0004",
+      "name": "げらげら商店shop4",
+      "adress": "Tokyo kita oji",
+      "category": "ガラス",
+      "Exercize": {
+       "period":"4月‐10月",
+       "plan":"ぷっくり"
+      },
+      "Picture":{
+        "main_pic":"",
+        "company_pic":"",
+        "map_pic":"",
+        "exercize_pic":""
+      },
+      "Review":{
+        "comment":""
+      }
+    }
+  ]
+}
+
