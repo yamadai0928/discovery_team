@@ -9,7 +9,7 @@
             href="/"
             class="text-xl sm:text-2xl font-bold uppercase text-blue-900 hover:text-blue-800"
           >
-            TOTAL Sample Project
+            
           </a>
         </p>
       </header>
@@ -19,7 +19,7 @@
       <footer class="p-4">
         <p class="text-gray-500 font-xs text-center">
           <span class="inline-block pt-2 border-t md:pt-8 md:border-none">
-            Copyright GuildWorks Inc.
+
           </span>
         </p>
       </footer>

@@ -2,17 +2,17 @@
   <div>
       <PageHeading>{{ placeData().ku }}</PageHeading>
       <div class='flex justify-center'>
-        <img style="height: 36rem" src="@/assets/image/fig_kita_map_2.png" usemap="#ImageMap" alt=""  >
+        <img style="height: 36rem" src="@/assets/image/fig_kita_map_3.png" usemap="#ImageMap" alt=""  >
         <map name="ImageMap">
-            <area shape="rect" coords="250,100,300,150" href="'/Company/0001'" alt="" />
-            <area shape="rect" coords="250,225,300,275" href="'/Company/0002'" alt="" />
-            <area shape="rect" coords="674,642,936,802" href="'/Company/0003'" alt="" />
-            <area shape="rect" coords="793,785,1099,1005" href="'/Company/0004'" alt="" />
-            <area shape="rect" coords="566,796,794,1050" href="'/Company/0005'" alt="" />
+            <area shape="rect" coords="250,70,300,120" href="/company/0004" alt="" />
+            <area shape="rect" coords="270,190,320,240" href="/company/0005" alt="" />
+            <area shape="rect" coords="350,300,400,350" href="/company/0001" alt="" />
+            <area shape="rect" coords="420,380,470,430" href="/company/0002" alt="" />
+            <area shape="rect" coords="300,520,350,570" href="/company/0003" alt="" />
         </map>
       </div>
-      <ListTable class="my-4 lg:w-11/12 mx-auto" />
-      <ListTableHtml class="my-4 lg:w-11/12 mx-auto" />
+      <ListTable class="my-4 lg:w-1/2 mx-auto" />
+      <ListTableHtml class="my-4 lg:w-3/4 mx-auto" />
   </div>
 </template>
 <script lang="ts">

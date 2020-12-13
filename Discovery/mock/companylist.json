@@ -1,79 +1,138 @@
 {
-  "CompanyData": [
+  "companyData": [
     {
       "id": "0001",
-      "name": "まるまる商店/shop1",
-      "adress": "Tokyo kita oji",
-      "category": "陶器",
+      "name": "浮世絵版画スタジオ/Ukiyoe Studio",
+      "icon":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/icon_e.png?alt=media&token=c341029e-0e32-4088-b4c8-d13ed7db4aab",
+      "information":{
+        "person":"沼部伸吉/Numabe Shinkichi",
+        "adress": "東京都北区堀船1-15-10-611",
+        "category": "絵画/illustration",
+        "since":"1800年",
+        "infocomment":"木版画でしか出せない究極の色と表情は摺師の力によるもの。摺師の技術として最も難しいのは、和紙の繊維の中に絵具を摺り込んで色を出すことです。十色～数十色と色を重ねるので摺師の技術と感性により仕上がりも大きく変わってきます。木版画の美、この世界的な文化の伝承に後継者の育成は欠かせないと、沼辺さんは工房で教室も開き普及に努めています。"
+      },
       "Exercize": {
-       "period":"4月‐10月",
-       "plan":"ねりねり"
+       "startingtime":"10:00-12:00",
+       "exercizetime":"2時間/2hours",
+       "price":"4000円/4000yen",
+       "exercomment":"皆さん、版画を最後にやってから何年が経ちましたか？おそらく小学生以来ではないでしょうか。ぜひ一緒に、「大人の版画」作りませんか？"
       },
       "Picture":{
-        "main_pic":"",
-        "company_pic":"",
-        "map_pic":"",
-        "exercize_pic":""
+        "main_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0001_main_pic.jpg?alt=media&token=1daa9b45-bbf5-4ed5-935b-031db7dd6fd5",
+        "person_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0001_person_pic.jpg?alt=media&token=01eb2281-8982-4bb8-806a-4422db28fbc8",
+        "map_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0001_map_pic.png?alt=media&token=0e49eca6-7a36-4b33-90cc-7cfa20749825",
+        "exercize_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0001_exer_pic.jpg?alt=media&token=4d7491d0-d958-41ca-baef-5921b2d742b8"
       },
       "Review":{
-        "comment":""
+        "comment":"四時間で師匠超えた"
       }
     },
     {
       "id": "0002",
-      "name": "ばつばつ商店shop2",
-      "adress": "Tokyo kita akabane",
-      "category": "たこ",
+      "name": "銀細工こじま/Silver accessary Kojima",
+      "icon":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/icon_accesary.png?alt=media&token=1d478190-7a1b-408d-91b6-ab1f7c3efa69",
+      "information":{
+      "person":"小島 信重/kojima Shigenobu",
+      "adress": "東京都北区上中里3-21-4 ",
+      "category": "こもの/accessary",
+      "since":"1900年",
+      "infocomment":"銀細工は、江戸から伝わる鎚起工芸の技術を用いて貴金属、特に銀を中心にした帯留・かんざしなどの小物や装身具・置物を細工したものです。お客さまと図案を決めてから細工に入るそうで、細かく根気のいる仕事だが、喜んでもらえるのが何よりと小島さんは語ります。"
+      },
       "Exercize": {
-       "period":"4月‐10月",
-       "plan":"たこあげ"
+       "startingtime":"13:00-",
+       "exercizetime":"3時間/3hours",
+       "price":"1000円/1000yen",
+       "exercomment":"初めての方が、お楽しみいただけるような、ワークショップです。モノづくりの楽しさを伝えたいという思いで行っておりますお気軽にお問い合わせください。"
       },
       "Picture":{
-        "main_pic":"",
-        "company_pic":"",
-        "map_pic":"",
-        "exercize_pic":""
+        "main_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0002_main_pic.jpg?alt=media&token=ae0e4202-3444-49a1-a194-09b374043724",
+        "person_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0002_person_pic.png?alt=media&token=f553052e-cd40-42e1-aef3-80252f4bf4cd",
+        "map_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0002_map_pic.png?alt=media&token=7b82513c-6efc-4d24-aa2f-6186e89681b1",
+        "exercize_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0002_exer_pic.jpg?alt=media&token=6de1e8fe-89cd-4458-b94e-69e52dbdf2de"
       },
       "Review":{
-        "comment":""
+        "comment":"四時間で師匠超えた"
       }
     },
     {
       "id": "0003",
-      "name": "さんかく商店shop3",
-      "adress": "Tokyo kita oji",
-      "category": "酒",
+      "name": "サカイ公房/ Sakai Craft studio",
+      "icon":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/icon_ceramic.png?alt=media&token=fb5ab150-f0fa-4d22-a076-2a55b2bfc9bb",
+      "information":{
+      "person":"酒井智子/Numabe Shinkichi",
+      "adress": "東京都北区西ヶ原2-40-12",
+      "category": "陶芸/Ceramic",
+      "since":"1828年",
+      "infocomment":"陶器は釉薬をつけて焼成すると釉がガラス質に変化し、土の表面をコーティングします。酒井さんは、この性質を生かした釉薬の技法で表情豊かな色彩と模様を描きます。伝統の技法を研究しつつ、新しい商品開発もしていきたいと酒井さんは言います。"
+      },
       "Exercize": {
-       "period":"4月‐10月",
-       "plan":"ぐびぐび"
+       "startingtime":"10:00-",
+       "exercizetime":"6時間/2hours",
+       "price":"2000円/2000yen",
+       "exercomment":"専門の陶芸教室で、多くの生徒が通っていますが、実は誰でも気軽に体験することができます。陶芸未体験の方もトラブルなく簡単に自分の作品を作ることができます。また、デザインの制限もなく、個人の希望があれば、食器以外何でも作ることができます。"
       },
       "Picture":{
-        "main_pic":"",
-        "company_pic":"",
-        "map_pic":"",
-        "exercize_pic":""
+        "main_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0003_main_pic.png?alt=media&token=ed9c3d22-e981-46af-a7a8-84661da30d43",
+        "person_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0003_person_pic.png?alt=media&token=03526670-c57b-46a9-b8c7-bfa8226ca649",
+        "map_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0003_map_pic.png?alt=media&token=dee528b1-f2e0-4c05-980a-c0c7a1e63f5f",
+        "exercize_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0003_exer_pic.png?alt=media&token=fdecc973-2f3f-4aea-898c-31f6a1b1d8e9"
       },
       "Review":{
-        "comment":""
+        "comment":"四時間で師匠超えた"
       }
     },
     {
       "id": "0004",
-      "name": "げらげら商店shop4",
-      "adress": "Tokyo kita oji",
-      "category": "ガラス",
+      "name": "秀雪会工房/ Shusetsukai studio",
+      "icon":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/icon_e.png?alt=media&token=c341029e-0e32-4088-b4c8-d13ed7db4aab",
+      "information":{
+      "person":"志村康夫/Shimura Yasuo",
+      "adress": "東京都北区志茂5-39-2",
+      "category": "こもの/accessary",
+      "since":"1670年",
+      "infocomment":"江戸庶民の遊びとして隆盛を極めた江戸凧。その特徴でもある歌川派の華やかな凧絵の技術を受け継いだ志村さん。絵の技術だけでなく、凧の楽しみ方を「絵を描く」「作る」「揚げる」「創作する」「飾る」の5つのこととして伝えていきたいそうです。"
+      },
       "Exercize": {
-       "period":"4月‐10月",
-       "plan":"ぷっくり"
+       "startingtime":"14：00-",
+       "exercizetime":"4時間/4hours",
+       "price":"2500円/2500yen",
+       "exercomment":"凧は運勢や名が上がるという縁起物。不老長寿・出世・商売繁盛などの願いを込めての贈り物としては良いのではないでしょうか？体験講座では、凧を作って荒川の河川敷で揚げています。"
       },
       "Picture":{
-        "main_pic":"",
-        "company_pic":"",
-        "map_pic":"",
-        "exercize_pic":""
+        "main_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0004_main_pic.png?alt=media&token=6a9e02fe-7c05-4bed-87b1-0bef58e97c36",
+        "person_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0004_person_pic.png?alt=media&token=71204908-a661-4134-b3bc-fc27f0db4929",
+        "map_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0004_map_pic.png?alt=media&token=05894d35-ea25-4d2f-a650-f0f8a7742c44",
+        "exercize_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0004_exer_pic.png?alt=media&token=bb462a13-f456-4c56-b00b-bca84eaf4eee"
       },
       "Review":{
-        "comment":""
+        "comment":"四時間で師匠超えた"
+      }
+    },
+    {
+      "id": "0005",
+      "name": "とんぼ玉工房 梅津屋/TomboDama Craft",
+      "icon":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/icon_accesary.png?alt=media&token=1d478190-7a1b-408d-91b6-ab1f7c3efa69",
+      "information":{
+      "person":"なかの雅章/Nakano Gisho",
+      "adress": "北区東十条4-7-18-2F",
+      "category": "絵画/illustration",
+      "since":"1700年",
+      "infocomment":"とんぼ玉は、模様のついたガラスのビーズ。なかのさんは、ガラスを溶かしながら棒状に重ね、金太郎飴のように切り口が絵になる緻密な技法を得意とします。小さなガラスの中に女の子のまつげまで見ることができる驚きの細かさです。"
+      },
+      "Exercize": {
+       "startingtime":"13:00-15:00",
+       "exercizetime":"2時間/2hours",
+       "price":"3500円/3500yen",
+       "exercomment":"駅近、マイペースで、手ぶらで通える教室です。とんぼ玉・ガラスパーツ作りの＜バーナーワーク＞は、炎に向かって無心になれます。＜テーブルワーク＞は、ミクロモザイクの作業。既にできているパーツを使って、パズルのように組み合わせ、コツコツと作業に没頭できます。"
+      },
+      "Picture":{
+        "main_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0005_main_pic.png?alt=media&token=3f1abde5-a795-4707-99d2-e4832b322da4",
+        "person_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0005_person_pic.png?alt=media&token=3156becd-a95f-4c13-a383-681924d4de7a",
+        "map_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0005_map_pic.png?alt=media&token=a981167c-af83-461a-96bf-97a41a671144",
+        "exercize_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0005_exer_pic.png?alt=media&token=85d0ee67-35eb-4295-85ec-a86b908137c5"
+      },
+      "Review":{
+        "comment":"四時間で師匠超えた"
       }
     }
   ]

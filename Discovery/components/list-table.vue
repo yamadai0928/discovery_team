@@ -21,6 +21,7 @@
     </table>
   </div>
 </template>
+
 <script lang="ts">
 import { defineComponent, reactive } from 'nuxt-composition-api'
 import PlaceJson from '@/mock/place.json'
