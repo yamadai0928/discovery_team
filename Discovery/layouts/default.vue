@@ -6,10 +6,10 @@
       >
         <p class="leading-none">
           <a
-            href="/"
+            href="/list"
             class="text-xl sm:text-2xl font-bold uppercase text-blue-900 hover:text-blue-800"
           >
-            
+            My Discovery
           </a>
         </p>
       </header>

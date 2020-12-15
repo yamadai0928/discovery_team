@@ -1,0 +1,141 @@
+{
+    "companyData": [
+      {
+        "id": "0001",
+        "name": "Ukiyoe Studio",
+        "icon":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/icon_e.png?alt=media&token=c341029e-0e32-4088-b4c8-d13ed7db4aab",
+        "information":{
+          "person":"Numabe Shinkichi",
+          "adress": "1-15-10-611 Horifune, Kita-ku, Tokyo",
+          "category": "Illustration",
+          "since":"1800",
+          "infocomment":"Actor paintings, oiran, sumo wrestling, landscapes, art that reflects the lives of the people of Edo (ukiyo-e), ukiyo-e. The Ukiyo-e Studio Project not only conveys traditional ukiyo-e techniques, but also welcomes artists who are currently active as painters to create Heisei ukiyo-e and revitalize ukiyo-e as our living contemporary art. And the purpose is to pass it on to the next generation."
+        },
+        "Exercize": {
+         "startingtime":"10:00-12:00",
+         "exercizetime":"2hours",
+         "price":"4000 Yen",
+         "exercomment":"How long since your last made prints? Probably since elementary school. Why don't you try to make adult prints together"
+        },
+        "Picture":{
+          "main_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0001_main_pic.jpg?alt=media&token=1daa9b45-bbf5-4ed5-935b-031db7dd6fd5",
+          "person_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0001_person_pic.jpg?alt=media&token=01eb2281-8982-4bb8-806a-4422db28fbc8",
+          "map_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0001_map_pic.png?alt=media&token=0e49eca6-7a36-4b33-90cc-7cfa20749825",
+          "exercize_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0001_exer_pic.jpg?alt=media&token=4d7491d0-d958-41ca-baef-5921b2d742b8"
+        },
+        "Review":{
+          "comment":"四時間で師匠超えた"
+        }
+      },
+      {
+        "id": "0002",
+        "name": "Silver accessory Kojima",
+        "icon":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/icon_accesary.png?alt=media&token=1d478190-7a1b-408d-91b6-ab1f7c3efa69",
+        "information":{
+        "person":"Kojima Shigenobu",
+        "adress": "3-21 Kaminakazato, Kita-ku, Tokyo ",
+        "category": "Accessory",
+        "since":"1900",
+        "infocomment":"Silver work is a work of precious metals, especially small items such as bandages and hairpins, as well as accessories and figurines centered on silver, using the technique of the sword crafts handed down from Edo. Mr. Kojima says that it is a work that requires a lot of patience after deciding on a design with the customer, but what makes him happy is above all."
+        },
+        "Exercize": {
+         "startingtime":"13:00-",
+         "exercizetime":"3hours",
+         "price":"1000yen",
+         "exercomment":"This is a workshop that first-timers can enjoy. Please feel free to contact us with the desire to convey the joy of manufacturing."
+        },
+        "Picture":{
+          "main_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0002_main_pic.jpg?alt=media&token=ae0e4202-3444-49a1-a194-09b374043724",
+          "person_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0002_person_pic.png?alt=media&token=f553052e-cd40-42e1-aef3-80252f4bf4cd",
+          "map_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0002_map_pic.png?alt=media&token=7b82513c-6efc-4d24-aa2f-6186e89681b1",
+          "exercize_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0002_exer_pic.jpg?alt=media&token=6de1e8fe-89cd-4458-b94e-69e52dbdf2de"
+        },
+        "Review":{
+          "comment":"You can made your own things in 4 hours"
+        }
+      },
+      {
+        "id": "0003",
+        "name": "Sakai Craft studio",
+        "icon":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/icon_ceramic.png?alt=media&token=fb5ab150-f0fa-4d22-a076-2a55b2bfc9bb",
+        "information":{
+        "person":"Numabe Shinkichi",
+        "adress": "2-40-12 Nishigahara, Kita-ku, Tokyo",
+        "category": "Ceramic",
+        "since":"1828",
+        "infocomment":"When pottery is fired with glaze, the glaze turns into glass and coats the surface of the soil. Mr. Sakai draws expressive colors and patterns using the glaze technique that makes the best use of this property. Sakai says he wants to develop new products while studying traditional techniques."
+        },
+        "Exercize": {
+         "startingtime":"10:00-18:00",
+         "exercizetime":"2hours",
+         "price":"2000 Yen",
+         "exercomment":"Many students attend a specialized pottery class, but in fact anyone can feel free to experience it. Even those who have never experienced pottery can easily create their own work without any trouble. In addition, there are no design restrictions, and you can make anything other than tableware if you wish."
+        },
+        "Picture":{
+          "main_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0003_main_pic.png?alt=media&token=ed9c3d22-e981-46af-a7a8-84661da30d43",
+          "person_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0003_person_pic.png?alt=media&token=03526670-c57b-46a9-b8c7-bfa8226ca649",
+          "map_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0003_map_pic.png?alt=media&token=dee528b1-f2e0-4c05-980a-c0c7a1e63f5f",
+          "exercize_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0003_exer_pic.png?alt=media&token=fdecc973-2f3f-4aea-898c-31f6a1b1d8e9"
+        },
+        "Review":{
+          "comment":"四時間で師匠超えた"
+        }
+      },
+      {
+        "id": "0004",
+        "name": "Shusetsukai studio",
+        "icon":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/icon_e.png?alt=media&token=c341029e-0e32-4088-b4c8-d13ed7db4aab",
+        "information":{
+        "person":"Shimura Yasuo",
+        "adress": "5-39-2 Shimo, Kita-ku, Tokyo",
+        "category": "Accessory",
+        "since":"1670",
+        "infocomment":"An Edo kite that has flourished as a play for the common people of Edo. Mr. Shimura inherited the gorgeous kite painting technique of the Utagawa school, which is also a feature of this. He wants to convey not only the technique of painting but also how to enjoy kites as five things: drawing, making, fried, creating, and decorating."
+        },
+        "Exercize": {
+         "startingtime":"14：00- 16:30",
+         "exercizetime":"4hours",
+         "price":"2500yen",
+         "exercomment":"A kite is a lucky charm that raises its fortune and name. Isn't it a good gift for immortality, longevity, career advancement, and prosperous business? In the hands-on course, kites are made and fried on the riverbed of Arakawa."
+        },
+        "Picture":{
+          "main_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0004_main_pic.png?alt=media&token=6a9e02fe-7c05-4bed-87b1-0bef58e97c36",
+          "person_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0004_person_pic.png?alt=media&token=71204908-a661-4134-b3bc-fc27f0db4929",
+          "map_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0004_map_pic.png?alt=media&token=05894d35-ea25-4d2f-a650-f0f8a7742c44",
+          "exercize_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0004_exer_pic.png?alt=media&token=bb462a13-f456-4c56-b00b-bca84eaf4eee"
+        },
+        "Review":{
+          "comment":"Beyond the master in four hours"
+        }
+      },
+      {
+        "id": "0005",
+        "name": "TomboDama Craft",
+        "icon":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/icon_accesary.png?alt=media&token=1d478190-7a1b-408d-91b6-ab1f7c3efa69",
+        "information":{
+        "person":"Nakano Gisho",
+        "adress": "4-7-18-2F, Dongjujo, North District",
+        "category": "Illustration",
+        "since":"1700 Yen",
+        "infocomment":"Tonbotama is a glass bead with a pattern. Mr. Naka is good at the precise technique of melting glass and stacking it in a stick shape to make a picture of the cut end like Kintaro-ame. You can even see the girl's eyelashes in a small glass."
+        },
+        "Exercize": {
+         "startingtime":"13:00-15:00",
+         "exercizetime":"2hours",
+         "price":"3500 Yen",
+         "exercomment":"It is a classroom near the station, at your own pace, that you can go empty-handed. <Burner work>, which makes dragonfly balls and glass parts, can be indifferent to the flames. <Table work> is micro-mosaic work. You can use the parts that have already been made, combine them like a puzzle, and immerse yourself in the work."
+        },
+        "Picture":{
+          "main_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0005_main_pic.png?alt=media&token=3f1abde5-a795-4707-99d2-e4832b322da4",
+          "person_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0005_person_pic.png?alt=media&token=3156becd-a95f-4c13-a383-681924d4de7a",
+          "map_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0005_map_pic.png?alt=media&token=a981167c-af83-461a-96bf-97a41a671144",
+          "exercize_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0005_exer_pic.png?alt=media&token=85d0ee67-35eb-4295-85ec-a86b908137c5"
+        },
+        "Review":{
+          "comment":"Beyond the master in four hours"
+        }
+      }
+    ]
+  }
+  
+  

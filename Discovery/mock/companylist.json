@@ -2,19 +2,19 @@
   "companyData": [
     {
       "id": "0001",
-      "name": "浮世絵版画スタジオ/Ukiyoe Studio",
+      "name": "浮世絵版画スタジオ",
       "icon":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/icon_e.png?alt=media&token=c341029e-0e32-4088-b4c8-d13ed7db4aab",
       "information":{
-        "person":"沼部伸吉/Numabe Shinkichi",
+        "person":"沼部伸吉",
         "adress": "東京都北区堀船1-15-10-611",
-        "category": "絵画/illustration",
+        "category": "絵画",
         "since":"1800年",
         "infocomment":"木版画でしか出せない究極の色と表情は摺師の力によるもの。摺師の技術として最も難しいのは、和紙の繊維の中に絵具を摺り込んで色を出すことです。十色～数十色と色を重ねるので摺師の技術と感性により仕上がりも大きく変わってきます。木版画の美、この世界的な文化の伝承に後継者の育成は欠かせないと、沼辺さんは工房で教室も開き普及に努めています。"
       },
       "Exercize": {
        "startingtime":"10:00-12:00",
-       "exercizetime":"2時間/2hours",
-       "price":"4000円/4000yen",
+       "exercizetime":"2時間",
+       "price":"4000円",
        "exercomment":"皆さん、版画を最後にやってから何年が経ちましたか？おそらく小学生以来ではないでしょうか。ぜひ一緒に、「大人の版画」作りませんか？"
       },
       "Picture":{
@@ -24,24 +24,24 @@
         "exercize_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0001_exer_pic.jpg?alt=media&token=4d7491d0-d958-41ca-baef-5921b2d742b8"
       },
       "Review":{
-        "comment":"四時間で師匠超えた"
+        "comment":"２時間で師匠みたいな版画が擦れました！！"
       }
     },
     {
       "id": "0002",
-      "name": "銀細工こじま/Silver accessary Kojima",
+      "name": "銀細工こじま",
       "icon":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/icon_accesary.png?alt=media&token=1d478190-7a1b-408d-91b6-ab1f7c3efa69",
       "information":{
-      "person":"小島 信重/kojima Shigenobu",
+      "person":"小島 信重",
       "adress": "東京都北区上中里3-21-4 ",
-      "category": "こもの/accessary",
+      "category": "こもの",
       "since":"1900年",
       "infocomment":"銀細工は、江戸から伝わる鎚起工芸の技術を用いて貴金属、特に銀を中心にした帯留・かんざしなどの小物や装身具・置物を細工したものです。お客さまと図案を決めてから細工に入るそうで、細かく根気のいる仕事だが、喜んでもらえるのが何よりと小島さんは語ります。"
       },
       "Exercize": {
        "startingtime":"13:00-",
-       "exercizetime":"3時間/3hours",
-       "price":"1000円/1000yen",
+       "exercizetime":"3時間",
+       "price":"1000円",
        "exercomment":"初めての方が、お楽しみいただけるような、ワークショップです。モノづくりの楽しさを伝えたいという思いで行っておりますお気軽にお問い合わせください。"
       },
       "Picture":{
@@ -51,24 +51,24 @@
         "exercize_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0002_exer_pic.jpg?alt=media&token=6de1e8fe-89cd-4458-b94e-69e52dbdf2de"
       },
       "Review":{
-        "comment":"四時間で師匠超えた"
+        "comment":"銀を加工するのは初めてで楽しかったです！！"
       }
     },
     {
       "id": "0003",
-      "name": "サカイ公房/ Sakai Craft studio",
+      "name": "サカイ公房",
       "icon":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/icon_ceramic.png?alt=media&token=fb5ab150-f0fa-4d22-a076-2a55b2bfc9bb",
       "information":{
-      "person":"酒井智子/Numabe Shinkichi",
+      "person":"酒井智子",
       "adress": "東京都北区西ヶ原2-40-12",
-      "category": "陶芸/Ceramic",
+      "category": "陶芸",
       "since":"1828年",
       "infocomment":"陶器は釉薬をつけて焼成すると釉がガラス質に変化し、土の表面をコーティングします。酒井さんは、この性質を生かした釉薬の技法で表情豊かな色彩と模様を描きます。伝統の技法を研究しつつ、新しい商品開発もしていきたいと酒井さんは言います。"
       },
       "Exercize": {
        "startingtime":"10:00-",
-       "exercizetime":"6時間/2hours",
-       "price":"2000円/2000yen",
+       "exercizetime":"6時間",
+       "price":"2000円",
        "exercomment":"専門の陶芸教室で、多くの生徒が通っていますが、実は誰でも気軽に体験することができます。陶芸未体験の方もトラブルなく簡単に自分の作品を作ることができます。また、デザインの制限もなく、個人の希望があれば、食器以外何でも作ることができます。"
       },
       "Picture":{
@@ -78,24 +78,24 @@
         "exercize_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0003_exer_pic.png?alt=media&token=fdecc973-2f3f-4aea-898c-31f6a1b1d8e9"
       },
       "Review":{
-        "comment":"四時間で師匠超えた"
+        "comment":"プロが優しく教えてくれました！！"
       }
     },
     {
       "id": "0004",
-      "name": "秀雪会工房/ Shusetsukai studio",
+      "name": "秀雪会工房",
       "icon":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/icon_e.png?alt=media&token=c341029e-0e32-4088-b4c8-d13ed7db4aab",
       "information":{
-      "person":"志村康夫/Shimura Yasuo",
+      "person":"志村康夫",
       "adress": "東京都北区志茂5-39-2",
-      "category": "こもの/accessary",
+      "category": "こもの",
       "since":"1670年",
       "infocomment":"江戸庶民の遊びとして隆盛を極めた江戸凧。その特徴でもある歌川派の華やかな凧絵の技術を受け継いだ志村さん。絵の技術だけでなく、凧の楽しみ方を「絵を描く」「作る」「揚げる」「創作する」「飾る」の5つのこととして伝えていきたいそうです。"
       },
       "Exercize": {
        "startingtime":"14：00-",
-       "exercizetime":"4時間/4hours",
-       "price":"2500円/2500yen",
+       "exercizetime":"4時間",
+       "price":"2500円",
        "exercomment":"凧は運勢や名が上がるという縁起物。不老長寿・出世・商売繁盛などの願いを込めての贈り物としては良いのではないでしょうか？体験講座では、凧を作って荒川の河川敷で揚げています。"
       },
       "Picture":{
@@ -105,15 +105,15 @@
         "exercize_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0004_exer_pic.png?alt=media&token=bb462a13-f456-4c56-b00b-bca84eaf4eee"
       },
       "Review":{
-        "comment":"四時間で師匠超えた"
+        "comment":"凧あげ楽しい！！(四歳の息子より)"
       }
     },
     {
       "id": "0005",
-      "name": "とんぼ玉工房 梅津屋/TomboDama Craft",
+      "name": "とんぼ玉工房 梅津屋",
       "icon":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/icon_accesary.png?alt=media&token=1d478190-7a1b-408d-91b6-ab1f7c3efa69",
       "information":{
-      "person":"なかの雅章/Nakano Gisho",
+      "person":"なかの雅章",
       "adress": "北区東十条4-7-18-2F",
       "category": "絵画/illustration",
       "since":"1700年",
@@ -132,7 +132,7 @@
         "exercize_pic":"https://firebasestorage.googleapis.com/v0/b/discovery-307f1.appspot.com/o/0005_exer_pic.png?alt=media&token=85d0ee67-35eb-4295-85ec-a86b908137c5"
       },
       "Review":{
-        "comment":"四時間で師匠超えた"
+        "comment":"友達へのプレゼントにとても良かったです！"
       }
     }
   ]
